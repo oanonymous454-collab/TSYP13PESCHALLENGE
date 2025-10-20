@@ -39,7 +39,7 @@ README.md SUMMARY
    - Production-ready status confirmed
    - Next major milestone (solar irradiance data)
 
-================================================================================
+
 KEY METRICS IN README
 ================================================================================
 
@@ -62,7 +62,7 @@ IMPROVEMENT:
   - Overfitting reduction: 100.1%
   - Cross-validation R²: 0.8736 ± 0.0139
 
-================================================================================
+
 FEATURE IMPORTANCE 
 ================================================================================
 
@@ -79,7 +79,7 @@ Top Features in Improved Model:
 
 Insight: Temporal patterns account for 72.9% of model decisions!
 
-============================================================================================================================
+
 USAGE
 ================================================================================
 
@@ -103,4 +103,5 @@ Users can now understand:
 To conclude this README.md highltights the importance of Hour of day as a feature and why we selected such topic to work on
 so in future dates giving for this model and giving the weather features thanks to the used Weather API, it will be predicting  the production of the pv panel and gives us an idea about the gap 
 for further details read the report
+
 
